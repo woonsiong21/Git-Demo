@@ -1,0 +1,11 @@
+
+My GitHub Learning Notes
+
+Lesson 1:
+I learned what GitHub is.
+
+Lesson 2:
+I created my first repository.
+
+Lesson 3:
+I learned how to upload files.
